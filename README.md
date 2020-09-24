@@ -1,5 +1,7 @@
 # Digimon-Exercise
-Scrapping data from digidb.io and insert the data into SQL table  
+### Scrapping data from digidb.io and insert the data into SQL table  
+
+
 [![logo.png](https://i.postimg.cc/SK2NcQ9J/logo.png)](https://postimg.cc/mc4sss8s)
 
 ## Langkah Pertama
