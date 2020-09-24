@@ -108,7 +108,7 @@
   ```python
   q = "INSERT INTO digimon_list VALUES (NULL,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
 
-  for i in range(len(temp_list)):
+  for i in range(len(digi_list)):
       for j in range(1):
           Nama_Digimon = digi_list[i][0]
           ImgLink = img_link[i]
